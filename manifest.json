@@ -10,7 +10,14 @@
         {
             "src": "/img/just_b.png",
             "type": "image/png",
-            "sizes": "144x144"
+            "sizes": "512x512",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/img/just_b_c.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
         }
     ]
 }
