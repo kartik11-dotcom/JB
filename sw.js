@@ -6,8 +6,8 @@ self.addEventListener('install' , (event)=>{
         Cache.addAll([
             "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
             'https://kartik11-dotcom.github.io/JB/',
-            'https://kartik11-dotcom.github.io/JB/js/script.js',
-            'https://kartik11-dotcom.github.io/JB/css/style.css',
+            'https://kartik11-dotcom.github.io/JB/app.js',
+            'https://kartik11-dotcom.github.io/JB/style.css',
             "https://kartik11-dotcom.github.io/JB/image/belive.jfif",
             "https://kartik11-dotcom.github.io/JB/image/bgimg.jpg",
             "https://kartik11-dotcom.github.io/JB/image/bgimg1.jpg",
@@ -18,7 +18,7 @@ self.addEventListener('install' , (event)=>{
             "https://kartik11-dotcom.github.io/JB/image/justice.jfif",
             "https://kartik11-dotcom.github.io/JB/image/merch1.jfif",
             "https://kartik11-dotcom.github.io/JB/image/merch2.jfif",
-	        "https://kartik11-dotcom.github.io/JB/image/merch2.jfif",
+	    "https://kartik11-dotcom.github.io/JB/image/just_b_c.png",
         ]).catch((error)=>{
             console.log(error)
         })
