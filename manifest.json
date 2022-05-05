@@ -1,7 +1,7 @@
 {
     "name": "Justin Bieber",
     "short_name": "JB",
-    "start_url": "https://kartik11-dotcom.github.io/JB/",
+    "start_url": "https://kartik11-dotcom.github.io/JB/index.html",
     "display": "standalone",
     "background_color": "#ffe9d2",
     "theme_color": "#ffe1c4",
